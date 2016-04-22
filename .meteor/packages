@@ -28,9 +28,9 @@ aldeed:autoform
 accounts-ui
 accounts-password
 matb33:bootstrap-glyphicons
-msavin:jetsetter
 zimme:active-route
 gwendall:auth-client-callbacks
 check
 standard-minifier-css
 standard-minifier-js
+meteortoys:allthings
